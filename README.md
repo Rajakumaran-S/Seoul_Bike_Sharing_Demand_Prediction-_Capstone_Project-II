@@ -1,4 +1,4 @@
-# Seoul_Bike_Sharing_Demand_Prediction-_Capstone_Project-II
+# Seoul_Bike_Sharing_Demand_Prediction_Capstone_Project-II
 ![image](https://user-images.githubusercontent.com/111486947/208640628-acdf772b-334c-4ac7-a4ca-9ee91472b3ed.png)
 
 ## Problem Statement
